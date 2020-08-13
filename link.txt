@@ -1,0 +1,25 @@
+<img src="images/p3.png" class="img-fluid" alt="login_image" />  -1817
+
+
+
+
+
+
+ <input type="submit" class="form-control"  value="Register" href="./index.html"> -1845
+
+
+.right-w3l input[type="submit"] {
+    background: #f0475f;
+    color: #fff;
+}
+
+
+<div class="side-bar col-lg-3"> 
+
+
+fa fa-shopping-basket
+
+
+fas fa-gift p-4
+
+font-family: Helvetica  type="submit";
